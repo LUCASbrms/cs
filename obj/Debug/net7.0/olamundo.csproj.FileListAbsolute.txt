@@ -1,0 +1,22 @@
+/home/lucas/Documentos/olamundo/bin/Debug/net7.0/olamundo
+/home/lucas/Documentos/olamundo/bin/Debug/net7.0/olamundo.deps.json
+/home/lucas/Documentos/olamundo/bin/Debug/net7.0/olamundo.runtimeconfig.json
+/home/lucas/Documentos/olamundo/bin/Debug/net7.0/olamundo.dll
+/home/lucas/Documentos/olamundo/bin/Debug/net7.0/olamundo.pdb
+/home/lucas/Documentos/olamundo/obj/Debug/net7.0/olamundo.csproj.AssemblyReference.cache
+/home/lucas/Documentos/olamundo/obj/Debug/net7.0/olamundo.GeneratedMSBuildEditorConfig.editorconfig
+/home/lucas/Documentos/olamundo/obj/Debug/net7.0/olamundo.AssemblyInfoInputs.cache
+/home/lucas/Documentos/olamundo/obj/Debug/net7.0/olamundo.AssemblyInfo.cs
+/home/lucas/Documentos/olamundo/obj/Debug/net7.0/olamundo.csproj.CoreCompileInputs.cache
+/home/lucas/Documentos/olamundo/obj/Debug/net7.0/olamundo.dll
+/home/lucas/Documentos/olamundo/obj/Debug/net7.0/refint/olamundo.dll
+/home/lucas/Documentos/olamundo/obj/Debug/net7.0/olamundo.pdb
+/home/lucas/Documentos/olamundo/obj/Debug/net7.0/olamundo.genruntimeconfig.cache
+/home/lucas/Documentos/olamundo/obj/Debug/net7.0/ref/olamundo.dll
+C:\Users\lucas\Downloads\AP1 LDP\obj\Debug\net7.0\olamundo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucas\Downloads\AP1 LDP\obj\Debug\net7.0\olamundo.AssemblyInfoInputs.cache
+C:\Users\lucas\Downloads\AP1 LDP\obj\Debug\net7.0\olamundo.AssemblyInfo.cs
+C:\Users\lucas\Downloads\AP1 LDP\obj\Debug\net7.0\olamundo.csproj.CoreCompileInputs.cache
+C:\Users\lucas\Downloads\AP1 LDP\obj\Debug\net7.0\olamundo.dll
+C:\Users\lucas\Downloads\AP1 LDP\obj\Debug\net7.0\refint\olamundo.dll
+C:\Users\lucas\Downloads\AP1 LDP\obj\Debug\net7.0\olamundo.pdb
